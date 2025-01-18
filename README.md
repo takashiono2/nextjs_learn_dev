@@ -8,6 +8,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 | 1.  | Getting Started             |
 | 2.  | CSS Styling                 |
 | 3.  | Optimizing Fonts and Images |
+| 4.  | Creating Layouts and Pages  |
 
 </details>
-<!-- | 4.  | Creating Layouts and Pages  | -->
+<!-- | 5.  | Navigating Between Pages  | -->
