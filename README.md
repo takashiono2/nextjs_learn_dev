@@ -14,7 +14,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 | 7.  | Fetching Data                |
 | 8.  | Static and Dynamic Rendering |
 | 9.  | Streaming                    |
+| 10. | Partial Prerendering         |
 </details>
 <!--
-| 10.  | Partial Prerendering |
 -->
