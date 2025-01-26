@@ -15,6 +15,13 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 | 8.  | Static and Dynamic Rendering |
 | 9.  | Streaming                    |
 | 10. | Partial Prerendering         |
+| 11. | Adding Search and Pagination |
+
 </details>
 <!--
+| 12. | Mutating Data |
+| 13. | Handling Errors |
+| 14. | Improving Accessibility |
+| 15. | Adding Authentication |
+| 16. | Adding Metadata |
 -->
